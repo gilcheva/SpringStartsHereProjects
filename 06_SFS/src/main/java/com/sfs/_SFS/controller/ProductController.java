@@ -31,9 +31,6 @@ public class ProductController {
         p.setPrice(price);
         productService.addProduct(p);
 
-        var products = productService.findAll();
-        model.addAttribute(products);
-
         return "products.html";
     }
 }
