@@ -1,6 +1,6 @@
 package com.sfs._SFS.controllers;
 
-import com.sfs._SFS.exceptions.ErrorDetails;
+import com.sfs._SFS.model.ErrorDetails;
 import com.sfs._SFS.exceptions.NotEnoughMoneyException;
 import com.sfs._SFS.model.PaymentDetails;
 import com.sfs._SFS.services.PaymentService;

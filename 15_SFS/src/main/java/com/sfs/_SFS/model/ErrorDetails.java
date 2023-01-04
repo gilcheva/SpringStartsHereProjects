@@ -1,4 +1,4 @@
-package com.sfs._SFS.exceptions;
+package com.sfs._SFS.model;
 
 import lombok.Getter;
 import lombok.Setter;
