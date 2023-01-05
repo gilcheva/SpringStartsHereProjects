@@ -11,7 +11,7 @@
 	<groupId>com.sfs</groupId>
 	<artifactId>18_SFS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>15_SFS</name>
+	<name>18_SFS</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
