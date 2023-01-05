@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sfs</groupId>
-	<artifactId>15_SFS</artifactId>
+	<artifactId>17_SFS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>15_SFS</name>
 	<description>Demo project for Spring Boot</description>
