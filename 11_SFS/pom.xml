@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sfs</groupId>
-	<artifactId>08_SFS</artifactId>
+	<artifactId>11_SFS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>08_SFS</name>
+	<name>11_SFS</name>
 	<description>Add Login logic</description>
 	<properties>
 		<java.version>11</java.version>
