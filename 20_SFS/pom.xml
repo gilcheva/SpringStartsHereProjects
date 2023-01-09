@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sfs</groupId>
-	<artifactId>19_SFS</artifactId>
+	<artifactId>20_SFS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>19_SFS</name>
+	<name>20_SFS</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
